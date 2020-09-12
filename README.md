@@ -12,3 +12,5 @@ This repository shows you how to use Agora Flutter SDK to build a simple video c
 * Mute / unmute audio
 * Switch camera views
 * Layout multiple video views
+* Call via audio call
+
